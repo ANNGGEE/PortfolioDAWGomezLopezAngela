@@ -68,7 +68,7 @@ No puedor de la pradera
 2. por no llamarte Rodrigor
 3. llevame al sircoo.
 
-``
+```
 
 [PracticaMarkDownGomezLopezAngela.pdf](https://github.com/user-attachments/files/33966072/PracticaMarkDownGomezLopezAngela.pdf)
 
