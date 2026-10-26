@@ -11,6 +11,7 @@ En esta práctica se utiliza Markdown para crear un documento lo más parecido p
 Con esta actividad aprendemos a utilizar mejor Markdown y a conocer sus posibilidades para crear y organizar documentos de forma sencilla.
 
 [PracticaMarkDownGomezLopezAngela.md](https://github.com/user-attachments/files/33966128/PracticaMarkDownGomezLopezAngela.md)
+
 [PracticaMarkDownGomezLopezAngela.pdf](https://github.com/user-attachments/files/33966072/PracticaMarkDownGomezLopezAngela.pdf)
 
 ### 3. **GitHub + MarkDown**
