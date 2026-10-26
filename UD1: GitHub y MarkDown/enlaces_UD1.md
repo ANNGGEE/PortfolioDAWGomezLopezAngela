@@ -7,8 +7,10 @@ de _ramas_, sus modificaciones, _merges_, _new pull request_, _create pull reque
 [Presentación de Canva](https://canva.link/ch70bl1g34i3z2y)
 
 ### 2. **Markdown**
-[PracticaMarkDownGomezLopezAngela.md](https://github.com/user-attachments/files/33966128/PracticaMarkDownGomezLopezAngela.md)
+En esta práctica se utiliza Markdown para crear un documento lo más parecido posible al pdf que se nos da en el enunciado. Para conseguirlo, se ponen en práctica diferentes opciones de formato, como títulos, negritas, cursivas, imágenes y enlaces, intentando respetar la estructura y el diseño del documento original.
+Con esta actividad aprendemos a utilizar mejor Markdown y a conocer sus posibilidades para crear y organizar documentos de forma sencilla.
 
+[PracticaMarkDownGomezLopezAngela.md](https://github.com/user-attachments/files/33966128/PracticaMarkDownGomezLopezAngela.md)
 [PracticaMarkDownGomezLopezAngela.pdf](https://github.com/user-attachments/files/33966072/PracticaMarkDownGomezLopezAngela.pdf)
 
 ### 3. **GitHub + MarkDown**
