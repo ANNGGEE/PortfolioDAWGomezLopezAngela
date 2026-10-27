@@ -1,5 +1,40 @@
 # Diario de clase - UD1: GitHub y MarkDown
-## 1. Qué he aprendido
-## 2. Qué no entiendo
-## 3. Qué es lo que más me ha gustado y qué es lo que menos
-## 4. Qué más me gustaría saber relacionado con la unidad
+## 1. ¿Qué he aprendido?
+
+En este tema he aprendido a utilizar **GitHub** de una forma más completa y eficiente, conociendo mejor sus funcionalidades y las posibilidades que ofrece para gestionar proyectos y trabajar en equipo. He aprendido a crear y utilizar ramas (_branches_), realizar _merge_ para integrar cambios y crear _pull requests_ para proponer y revisar modificaciones en el código. Además he profundizado en el uso de **GitHub Issues** para gestionar tareas y detectar errores, **GitHub Pages** para publicar páginas web y **GitHub Actions** para automatizar procesos. También he aprendido qué es un _workflow_, cómo funciona y cómo definir su estructura mediante archivos YAML, comprendiendo mejor cómo configurar y ejecutar acciones automatizadas dentro del repositorio.
+
+También he aprendido a utilizar el lenguaje **Markdown**, tanto mediante los tutoriales proporcionados en el aula como a través de la práctica. Una de las actividades consistía en intentar reproducir un PDF utilizando **Markdown**, tratando de conseguir que el resultado final se pareciera lo máximo posible al documento original. Además, he podido aplicar los conocimientos adquiridos en otras tareas, como la del portafolio (este repositorio) y la actividad de GitHub y Markdown, ya mencionada en el párrafo anterior, en la que se trabajaban conceptos como **GitHub Actions**, algunas de las funcionalidades básicas de GitHub y el uso de ramas, _pull request_, _merges_ etc. Gracias a estas actividades, he podido reforzar lo aprendido y comprender mejor cómo utilizar **Markdown** en diferentes situaciones. 
+
+![Imagen de Markdown con algunas funcionalidades básicas](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsjUaFXI9kjsHYOhB_8nkhyuA95tvgY6u2kpzVArQi8w&s=10)
+
+## 2. ¿Qué no entiendo?
+
+Una de las cosas que todavía no entiendo del todo es cómo funcionan los _enlaces de referencia_ en **Markdown**, ya que, aunque he seguido los tutoriales proporcionados en el aula, no conseguí realizar correctamente ese ejercicio del tutorial y todavía tengo dudas sobre cómo se crean y se utilizan este tipo de enlaces. Además, he tenido dificultades al crear los _enlaces internos_ del índice en la tarea de **GitHub y Markdown**, en la que se trataban temas como GitHub Actions y otras funcionalidades de GitHub. En ocasiones, los enlaces del índice no dirigían correctamente a los apartados correspondientes porque el nombre utilizado en el enlace no coincidía exactamente con el del título, teniendo que prestar atención a detalles como los guiones, las tildes y los números en el caso de los apartados incluidos en listas numeradas. En algunos casos, me faltaba incluir el número correspondiente en el enlace para que funcionara correctamente. Por ello, todavía necesito practicar más este aspecto de **Markdown** para comprender mejor cómo crear estos _enlaces_ y evitar errores.
+
+> Aunque finalmente he conseguido solucionar este problema, he decidido incluirlo en este apartado porque ha sido una de las partes que más me ha costado realizar durante el trabajo y en la que he tenido que invertir más tiempo para conseguir que funcionara correctamente.
+
+Otra de las dificultades que he encontrado ha sido al realizar la tarea de reproducir un PDF utilizando Markdown. En una parte del documento se pedía crear un párrafo dentro de un recuadro gris, pero no recuerdo que en los tutoriales se explicara cómo conseguir ese formato. Finalmente, intenté hacerlo colocando el símbolo | al principio de cada línea del párrafo, una por cada línea de texto. Sin embargo, no tengo del todo claro si esa es la forma correcta de hacerlo ni si existe otra manera más sencilla de conseguir ese resultado.
+
+![Imagen de Markdown con algunos párrafos](https://gutl.jovenclub.cu/wp-content/uploads/2015/07/markdown_img-7.png)
+
+## 3. ¿Qué es lo que más me ha gustado? ¿Y es lo que menos?
+
+Lo que más me ha gustado de este tema ha sido aprender a utilizar **Markdown**, ya que me parece un lenguaje sencillo, fácil de aprender y bastante rápido de utilizar una vez que conoces su funcionamiento. Me ha gustado especialmente poder dar formato al texto de una manera tan simple, utilizando negritas, cursivas, imágenes, enlaces y otros elementos que permiten organizar y presentar la información de forma más clara y visual. Considero que es un lenguaje muy útil y práctico, y que los conocimientos adquiridos me pueden servir para realizar trabajos y documentar proyectos en el futuro.
+
+Por otro lado, lo que menos me ha gustado ha sido la forma en la que se explicaban algunos aspectos de **Markdown** en los tutoriales, especialmente las listas ordenadas y desordenadas, los párrafos, las citas y los enlaces. En algunos casos, las explicaciones no eran del todo claras y los ejercicios resultaban difíciles de entender. Además, me encontré con situaciones en las que estaba realizando correctamente una actividad, pero de una forma diferente a la que esperaba el tutorial, por lo que no me la reconocía como válida y no me permitía avanzar. Esto hizo que invirtiera demasiado tiempo intentando resolver algunos ejercicios que, en realidad, estaba haciendo bien, aunque utilizando otra sintaxis válida.
+
+También me habría gustado que los tutoriales explicaran que algunos elementos de **Markdown** se pueden escribir de diferentes maneras y que, aunque la sintaxis cambie, el resultado puede ser el mismo. Al no contar con estas explicaciones, me resultó más complicado comprender algunos conceptos y tuve que buscar información adicional por mi cuenta para poder completar las actividades del aula. 
+
+A pesar de las dificultades que he encontrado con los tutoriales y con algunos aspectos, como los enlaces, **Markdown** sigue siendo un lenguaje que me gusta. Considero que es sencillo, práctico y rápido de utilizar, y que ofrece muchas posibilidades para dar formato a los documentos sin necesidad de utilizar herramientas más complejas. 
+
+![Imagen de Markdown listas](https://itsfoss.com/content/images/2023/02/Create-unordered-nested-list-in-markdown.png)
+
+## 4. ¿Qué más me gustaría saber relacionado con la unidad?
+
+Me gustaría profundizar más en **Markdown** y conocer si existen funcionalidades más avanzadas de las que he aprendido, así como descubrir para qué otros fines se puede utilizar. Hasta ahora, lo he utilizado principalmente para dar formato a textos, añadir imágenes, crear enlaces y organizar la información, pero me gustaría saber si tiene otras aplicaciones más allá de la presentación visual de los documentos.
+
+Por ejemplo, me gustaría conocer cómo se utiliza **Markdown** en ámbitos relacionados con la programación y el desarrollo de software, si se puede combinar con otros lenguajes o herramientas y si permite crear documentación más compleja o automatizar algunas tareas. También me interesa saber si existen otras aplicaciones en las que se utilice habitualmente, además de **GitHub**, y cómo se integra en proyectos reales. En definitiva, me gustaría profundizar en este lenguaje para comprender mejor sus posibilidades y descubrir si, además de facilitar la escritura y el formato de documentos, puede ser útil para otras tareas relacionadas con la programación y el desarrollo de proyectos.
+
+Además, en relación con **GitHub**, me gustaría ver más ejemplos prácticos de cómo realizar _merges_ y crear _pull requests_, para comprender mejor cómo funcionan, cuándo se utilizan y cómo se relacionan entre sí dentro del trabajo colaborativo. También me gustaría profundizar en los contenidos que he trabajado en la tarea de GitHub y Markdown, especialmente en _GitHub Actions_, _GitHub Issues_ y _GitHub Pages_, para conocer mejor sus funcionalidades y descubrir otras posibilidades que ofrecen. Por ejemplo, me gustaría aprender a configurar automatizaciones con _GitHub Actions_, gestionar mejor las tareas y los errores mediante _GitHub Issues_ y explorar otras formas de utilizar _GitHub Pages_ para publicar proyectos web. Considero que profundizar en estos aspectos me ayudaría a comprender mejor el funcionamiento de **GitHub** y a aprovechar todas sus herramientas en futuros proyectos.
+
+![Imagen GitHub Pages](https://www.plainconcepts.com/wp-content/uploads/2024/10/github-pages.jpg)
