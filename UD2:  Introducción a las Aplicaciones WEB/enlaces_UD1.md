@@ -19,3 +19,6 @@ También se han incluido preguntas prácticas sobre la instalación y gestión d
 El objetivo de esta actividad ha sido reforzar y comprobar los conocimientos adquiridos durante las exposiciones de clase, repasando los conceptos más importantes de cada tema.
 
 [Cuestionario Gómez López Ángela.pdf](https://github.com/user-attachments/files/34987474/Cuestionario.Gomez.Lopez.Angela.pdf)
+
+### 3. **Iniciación a la virtualización**
+
