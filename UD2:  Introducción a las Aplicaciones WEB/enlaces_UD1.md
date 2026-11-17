@@ -10,3 +10,12 @@ El objetivo de este trabajo ha sido conocer mejor cómo funcionan los servicios 
 
 [Presentación Canva](https://canva.link/c5ctcddo22we2sy)
 
+### 2. **Cuestionario presentación**
+
+En este trabajo he realizado un cuestionario con 22 preguntas relacionadas con las diferentes presentaciones que hemos tratado en clase. A través de las preguntas y sus respuestas, he repasado conceptos sobre los protocolos HTTP, HTTPS, FTP y SSH, el funcionamiento del servidor web Apache, las arquitecturas web y los diferentes tipos de alojamiento web.
+
+También se han incluido preguntas prácticas sobre la instalación y gestión de Apache tanto en Windows como en Ubuntu, así como comandos utilizados en la terminal.
+
+El objetivo de esta actividad ha sido reforzar y comprobar los conocimientos adquiridos durante las exposiciones de clase, repasando los conceptos más importantes de cada tema.
+
+[Cuestionario Gómez López Ángela.pdf](https://github.com/user-attachments/files/34987474/Cuestionario.Gomez.Lopez.Angela.pdf)
