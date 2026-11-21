@@ -17,6 +17,8 @@ Por último, hemos trabajado con la instalación de contenedores de servidores w
 
 Gracias a todas estas actividades he podido comprender mejor cómo se prepara un entorno para desplegar aplicaciones web, desde la instalación de un sistema operativo hasta la configuración y puesta en funcionamiento de diferentes servidores. Considero que ha sido una unidad en la que hemos combinado teoría y práctica, lo que me ha ayudado a entender mejor los contenidos trabajados en clase.
 
+![Aplicaciones Web](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6hmMW5tKMcX6LqGju56eVKIt71wJIjch5eAnB1C2kIw&s=10)
+
 ## 2. ¿Qué no entiendo?
 
 Todavía me cuesta comprender cómo funcionan conjuntamente los diferentes componentes de las arquitecturas web modernas. Aunque conozco qué son el frontend, el backend, las API, las bases de datos y los servidores, me gustaría entender mejor cómo se comunican entre sí y cómo trabajan conjuntamente dentro de una aplicación web real. También me gustaría conocer el recorrido que sigue una petición desde que el usuario accede a una página hasta que recibe la información solicitada.
@@ -29,6 +31,8 @@ Aunque finalmente he conseguido solucionar los problemas que fueron apareciendo 
 
 Por último, también me gustaría comprender mejor las diferencias entre los distintos tipos de alojamiento web, especialmente entre un VPS y un servidor dedicado. Aunque entiendo sus características principales y las diferencias en cuanto a recursos y control, todavía tengo dudas sobre qué opción sería más adecuada en función del tipo de aplicación que se quiera desplegar, el número de usuarios que vaya a tener y los recursos que necesite.
 
+![Nginx](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7MhtMUiEAYbHpQpesHu0wjzh7HqLWEPa2Xp9mu6EOvQ&s=10)
+
 ## 3. ¿Qué es lo que más me ha gustado? ¿Y es lo que menos?
 
 Lo que más me ha gustado de esta unidad ha sido la parte práctica relacionada con la virtualización y Docker, especialmente poder instalar Ubuntu en VirtualBox y trabajar posteriormente con contenedores. Me ha parecido interesante aprender cómo se puede disponer de un sistema operativo completo dentro de una máquina virtual y utilizarlo para realizar instalaciones y configuraciones sin tener que modificar directamente el sistema operativo principal del ordenador.
@@ -39,6 +43,8 @@ Además, me ha gustado que durante estas actividades no todo consistiera en segu
 
 Por otro lado, lo que menos me ha gustado ha sido la parte en la que han surgido problemas durante las instalaciones y configuraciones, especialmente con Docker y Tomcat. En algunos momentos no tenía demasiado claro cuál era el origen del problema ni qué pasos debía seguir para solucionarlo, por lo que he tenido que probar diferentes comandos y realizar varias comprobaciones hasta conseguir que funcionara. También me ha resultado algo complicado diferenciar algunas de las funciones de los servidores web y los servidores de aplicaciones, ya que sus responsabilidades pueden estar relacionadas y no siempre me ha quedado completamente claro dónde termina el trabajo de uno y empieza el del otro.
 
+![Tomcat](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Ohr1qT744L-ducZkKD0ukyKB4yLYYgnfS6hpWc0Gcw&s=10)
+
 ## 4. ¿Qué más me gustaría saber relacionado con la unidad?
 
 Me gustaría profundizar más en el despliegue de aplicaciones web y conocer cómo se realiza este proceso en entornos reales, especialmente cómo se publica una aplicación para que otras personas puedan acceder a ella a través de Internet. También me gustaría aprender a configurar servidores como Apache o Nginx, utilizar dominios y certificados de seguridad HTTPS y comprender mejor cómo se conectan los diferentes servicios de una aplicación.
@@ -48,3 +54,6 @@ Por otro lado, me gustaría conocer más sobre la virtualización, ya que me ha 
 Además, me gustaría profundizar en Docker, aprendiendo a crear mis propias imágenes y utilizar herramientas como Docker Compose para gestionar varios contenedores conjuntamente. También me interesa aprender más sobre la administración de servidores remotos mediante SSH y conocer cómo se configura un VPS para alojar una aplicación web.
 
 En definitiva, me gustaría seguir aprendiendo sobre virtualización y despliegue de aplicaciones web para comprender mejor cómo se utilizan estas tecnologías en proyectos reales y conocer todas las posibilidades que ofrecen.
+
+![Virtualización](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVVHsM6fQryrk-FSD0Qe8OHq1w3cBP-9QKH08Wk69nZg&s=10)
+
