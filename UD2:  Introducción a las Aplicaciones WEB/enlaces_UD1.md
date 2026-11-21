@@ -22,3 +22,10 @@ El objetivo de esta actividad ha sido reforzar y comprobar los conocimientos adq
 
 ### 3. **Iniciación a la virtualización**
 
+En este trabajo se lleva a cabo una introducción a la virtualización y al uso de contenedores mediante herramientas como VirtualBox y Docker. Para ello, se ha realizado la instalación y configuración de Ubuntu 24.04 LTS en una máquina virtual, así como la instalación de Docker para crear y ejecutar diferentes contenedores.
+
+A lo largo de la práctica se ha trabajado con Nginx, como servidor web, y Apache Tomcat, como servidor de aplicaciones, comprobando su funcionamiento y acceso desde el navegador.
+
+Por último, se han analizado los requisitos mínimos necesarios para implantar una aplicación web, teniendo en cuenta los recursos de hardware y software, la infraestructura de red, la configuración de los servidores y las medidas de seguridad y mantenimiento.
+
+[Inicio a la virtualización](https://github.com/ANNGGEE/pruebaGITHUB/blob/main/Iniciaci%C3%B3n%20a%20la%20virtualizaci%C3%B3n.md)
