@@ -12,4 +12,5 @@ Además, se han realizado diferentes pruebas desde el navegador, mediante comand
 
 De esta manera, ambas actividades permiten combinar la documentación teórica sobre Apache con su instalación, configuración y administración en un entorno práctico.
 
-[Apache introducción y Configuración Gómez López Ángela.pdf](https://github.com/user-attachments/files/35276814/Apache.introduccion.y.Configuracion.Gomez.Lopez.Angela.pdf)
+[Apache introducción y Configuración Gómez López Ángela.pdf](https://github.com/user-attachments/files/35286876/Apache.introduccion.y.Configuracion.Gomez.Lopez.Angela.pdf)
+
