@@ -2,12 +2,14 @@
 ## Trabajos de la unidad: 
 ### 1. **Apache: Introducción y Apache: Configuración**
 
-En este trabajo se han integrado dos prácticas relacionadas con Apache HTTP Server. 
+En este trabajo se han realizado dos prácticas relacionadas con Apache HTTP Server. 
 
-En la primera, se ha trabajado con la instalación y configuración de un servidor web en un entorno Ubuntu Server mediante una máquina virtual. Para ello, se ha creado una página web personalizada utilizando HTML y CSS y se ha configurado un Virtual Host para gestionar su acceso desde el navegador.
+En la primera actividad se ha trabajado la parte introductoria y documental del proyecto, elaborando una memoria en la que se explica qué es Apache, su historia, sus principales características, las alternativas existentes y la motivación para utilizarlo.
 
-En la segunda práctica, se ha ampliado la configuración inicial incorporando un sistema de autenticación básica mediante usuario y contraseña, con el objetivo de restringir el acceso a la página web. Para comprobar su funcionamiento, se han realizado diferentes pruebas desde el navegador, mediante comandos de terminal y desde otro equipo de la red.
+En la segunda práctica se ha llevado a cabo la parte práctica, instalando y configurando un servidor web Apache en un entorno Ubuntu Server mediante una máquina virtual. Para ello, se ha creado una página web personalizada utilizando HTML y CSS, se ha configurado un Virtual Host y se ha incorporado un sistema de autenticación básica mediante usuario y contraseña para restringir el acceso a la página.
 
-Con ambas prácticas se han adquirido conocimientos sobre la instalación y administración de servidores web, la configuración de servicios y la aplicación de medidas básicas de seguridad y control de acceso.
+Además, se han realizado diferentes pruebas desde el navegador, mediante comandos de terminal y desde otro equipo de la red, con el objetivo de comprobar el funcionamiento del servidor y las medidas de control de acceso implementadas.
+
+De esta manera, ambas actividades permiten combinar la documentación teórica sobre Apache con su instalación, configuración y administración en un entorno práctico.
 
 [Apache introducción y Configuración Gómez López Ángela.pdf](https://github.com/user-attachments/files/35276814/Apache.introduccion.y.Configuracion.Gomez.Lopez.Angela.pdf)
