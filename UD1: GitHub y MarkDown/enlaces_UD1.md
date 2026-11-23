@@ -76,3 +76,11 @@ No puedor de la pradera
 En esta práctica se presentan los principales usos de GitHub y se explican, paso a paso, algunas de sus funciones más importantes, como la creación de repositorios, la subida de archivos, el uso de ramas, las pull requests, la gestión de incidencias y la publicación de páginas web. Asimismo, se introduce GitHub Actions, una herramienta que permite automatizar tareas mediante flujos de trabajo. Finalmente, se incluyen unas conclusiones sobre la utilidad de esta plataforma y los conocimientos adquiridos.
 
 [Práctica GitHub + MarkDown](https://github.com/ANNGGEE/pruebaGITHUB/blob/main/GitHub.md)
+
+### 4. **Práctica de seguridad y accesibilidad en el control de versiones**
+En esta práctica se trabajan diferentes medidas para mejorar la seguridad y accesibilidad de un repositorio de GitHub. Para ello, se crea un archivo .gitignore con el objetivo de evitar que se suban archivos sensibles o innecesarios y se elabora un documento SECURITY.md donde se recogen recomendaciones de seguridad, protección de ramas, gestión de permisos y recuperación del repositorio. Además, se configura el acceso de un colaborador, se investigan los diferentes niveles de permisos (Read, Write y Admin) y se realizan pruebas de copia de seguridad y recuperación mediante Git.
+
+Con esta actividad aprendemos a aplicar buenas prácticas de seguridad, gestionar la colaboración entre desarrolladores y proteger la información y los archivos de un proyecto.
+
+[Gómez López Ángela Práctica de seguridad y accesibilidad en el control de versiones.pdf](https://github.com/user-attachments/files/35276093/Gomez.Lopez.Angela.Practica.de.seguridad.y.accesibilidad.en.el.control.de.versiones.pdf)
+
