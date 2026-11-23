@@ -1,7 +1,6 @@
 # Índice de trabajos - UD3: Apache
 ## Trabajos de la unidad: 
-### 1. **Apache: Introducción**
-### 2. **Apache: Configuración**
+### 1. **Apache: Introducción y Apache: Configuración**
 
 En este trabajo se han integrado dos prácticas relacionadas con Apache HTTP Server. En la primera, se ha trabajado con la instalación y configuración de un servidor web en un entorno Ubuntu Server mediante una máquina virtual. Para ello, se ha creado una página web personalizada utilizando HTML y CSS y se ha configurado un Virtual Host para gestionar su acceso desde el navegador.
 
