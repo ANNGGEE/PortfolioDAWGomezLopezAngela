@@ -84,3 +84,4 @@ Con esta actividad aprendemos a aplicar buenas prácticas de seguridad, gestiona
 
 [Gómez López Ángela Práctica de seguridad y accesibilidad en el control de versiones.pdf](https://github.com/user-attachments/files/35276093/Gomez.Lopez.Angela.Practica.de.seguridad.y.accesibilidad.en.el.control.de.versiones.pdf)
 
+[Repositorio que contiene el .gitignore y el security.md](https://github.com/ANNGGEE/cine)
