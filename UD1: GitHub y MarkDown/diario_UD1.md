@@ -7,6 +7,8 @@ También he aprendido a utilizar el lenguaje **Markdown**, tanto mediante los tu
 
 Además, con la práctica de **Seguridad y Accesibilidad en GitHub**, he aprendido a aplicar diferentes medidas para proteger un repositorio y gestionar de forma más segura el trabajo en equipo. He aprendido la utilidad del archivo **.gitignore** para evitar subir archivos sensibles o innecesarios, así como la importancia de documentar las medidas de seguridad mediante un archivo **SECURITY.md**. También he conocido los diferentes niveles de permisos de GitHub **(Read, Write y Admin)**, cómo gestionar el acceso de los colaboradores y la importancia de proteger las ramas principales mediante **pull requests** y revisiones de código. Por último, he aprendido a realizar copias de seguridad de un repositorio mediante Git y a recuperar el proyecto a partir de ellas, utilizando comandos como **git clone --mirror**. Esta práctica me ha permitido comprender mejor la importancia de mantener los repositorios protegidos y disponer de mecanismos para recuperar la información en caso de pérdida de datos o errores.
 
+Con la práctica de **Generación de Documentación**, he aprendido a utilizar y comparar tres herramientas: **Javadoc**, **Doxygen** y **Sphinx**, conociendo sus características, ventajas y diferencias. También he podido probarlas utilizando el proyecto desarrollado en el curso anterior, generando documentación automáticamente a partir del código fuente. Gracias a esta actividad, he comprendido mejor la importancia de documentar correctamente un proyecto, ya que facilita su comprensión, mantenimiento y trabajo colaborativo.
+
 ![Imagen de Markdown con algunas funcionalidades básicas](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsjUaFXI9kjsHYOhB_8nkhyuA95tvgY6u2kpzVArQi8w&s=10)
 
 ## 2. ¿Qué no entiendo?
@@ -20,6 +22,8 @@ Otra de las dificultades que he encontrado ha sido al realizar la tarea de repro
 Otra de las dificultades encontradas ha sido al intentar configurar los diferentes niveles de permisos y las reglas de protección de **ramas** en **GitHub**. Durante la práctica, intenté asignar los permisos **Read, Write y Admin** de forma independiente a un colaborador, pero no fue posible hacerlo desde mi repositorio personal privado. También tuve problemas al intentar aplicar las reglas de protección de la **rama principal (main)**, ya que **GitHub** indicaba que las restricciones no se aplicarían con el plan que estaba utilizando. Esto hizo que no pudiera comprobar completamente cómo funcionan estas medidas en la práctica y tuviera que recurrir a la documentación oficial de **GitHub** para comprender mejor sus características y limitaciones.
 
 Aunque he conseguido comprender para qué sirve cada permiso y cómo funcionan las **reglas de protección de ramas**, todavía me gustaría profundizar más en su configuración, especialmente en las diferencias entre los repositorios personales y los pertenecientes a organizaciones.
+
+En la práctica de **Generación Automática de Documentación**, una de las cosas que más me ha costado ha sido comprender cómo configurar y utilizar correctamente las diferentes herramientas, especialmente **Doxygen** y **Sphinx**, ya que cada una tiene su propio funcionamiento y requiere unos pasos específicos. También me han surgido algunas dudas sobre cómo generar la documentación en diferentes formatos, como PDF, y sobre qué diferencias existen entre las distintas herramientas a la hora de analizar el código.
 
 ![Imagen de Markdown con algunos párrafos](https://gutl.jovenclub.cu/wp-content/uploads/2015/07/markdown_img-7.png)
 
@@ -37,6 +41,10 @@ También me ha gustado la práctica de **Seguridad y Accesibilidad en GitHub**, 
 
 Por otro lado, lo que menos me ha gustado de la práctica de Seguridad y Accesibilidad ha sido encontrarme con las limitaciones del plan de **GitHub** utilizado, ya que no he podido probar de forma independiente todos los permisos ni comprobar que las **reglas de protección de ramas** funcionaran correctamente. Esto ha hecho que tuviera que buscar información adicional y utilizar capturas de la documentación oficial como ejemplos ilustrativos, en lugar de poder mostrar todas las configuraciones mediante pruebas propias.
 
+De la práctica de la **Generación de Documentación**, lo que más me ha gustado ha sido poder probar las diferentes herramientas con un proyecto real que ya había desarrollado anteriormente y comprobar cómo se genera automáticamente su documentación. Me ha parecido especialmente útil ver cómo, a partir de los comentarios del código, se pueden crear documentos organizados que facilitan la comprensión del proyecto.
+
+Por otro lado, lo que menos me ha gustado ha sido tener que configurar cada herramienta y familiarizarme con su funcionamiento, ya que algunas me han resultado algo más complicadas de utilizar que otras.
+
 ![Imagen de Markdown listas](https://itsfoss.com/content/images/2023/02/Create-unordered-nested-list-in-markdown.png)
 
 ## 4. ¿Qué más me gustaría saber relacionado con la unidad?
@@ -50,5 +58,7 @@ Además, en relación con **GitHub**, me gustaría ver más ejemplos prácticos 
 Además, después de realizar la práctica de **Seguridad y Accesibilidad en GitHub**, me gustaría profundizar en las diferentes opciones de seguridad que ofrece esta plataforma. Especialmente, me gustaría aprender a configurar correctamente las **reglas de protección de ramas**, gestionar los distintos niveles de permisos en repositorios pertenecientes a organizaciones y conocer otras herramientas que permitan detectar y evitar la exposición de información sensible.
 
 También me gustaría aprender más sobre las copias de seguridad de **Git**, conocer otras formas de realizarlas y descubrir cómo automatizar este proceso para que se lleve a cabo periódicamente. Considero que estos conocimientos serían útiles para trabajar en proyectos reales y evitar la pérdida de información importante.
+
+Después de realizar la actividad de **Generación de Documentación**, me gustaría conocer otras herramientas de generación automática de documentación y descubrir qué posibilidades ofrecen. También me gustaría aprender a integrar estas herramientas en proyectos de mayor tamaño y conocer cómo se puede automatizar la actualización de la documentación cada vez que se realizan cambios en el código. Considero que sería interesante aprender a utilizar estas herramientas en proyectos colaborativos reales para facilitar el trabajo en equipo y el mantenimiento del software.
 
 ![Imagen GitHub Pages](https://www.plainconcepts.com/wp-content/uploads/2024/10/github-pages.jpg)
