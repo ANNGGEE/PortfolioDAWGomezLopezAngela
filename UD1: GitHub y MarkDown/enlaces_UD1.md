@@ -85,7 +85,7 @@ En esta actividad vamos a investigar y comparar tres herramientas de generación
 
 Además, pondremos en práctica estas herramientas utilizando el proyecto desarrollado en el curso anterior, con el objetivo de comprobar cómo funcionan y conocer las posibilidades que ofrecen. Por último, realizaremos una reflexión sobre nuestra experiencia, valorando sus ventajas e inconvenientes y su utilidad a la hora de trabajar en proyectos individuales y colaborativos.
 
-[Generación de documentación.zip](https://github.com/user-attachments/files/35326282/Generacion.de.documentacion.zip)
+[Generación de Documentación.zip](https://github.com/user-attachments/files/35327564/Generacion.de.Documentacion.zip)
 
 ### 5. **Práctica de seguridad y accesibilidad en el control de versiones**
 En esta práctica se trabajan diferentes medidas para mejorar la seguridad y accesibilidad de un repositorio de GitHub. Para ello, se crea un archivo .gitignore con el objetivo de evitar que se suban archivos sensibles o innecesarios y se elabora un documento security.md donde se recogen recomendaciones de seguridad, protección de ramas, gestión de permisos y recuperación del repositorio. Además, se configura el acceso de un colaborador, se investigan los diferentes niveles de permisos (Read, Write y Admin) y se realizan pruebas de copia de seguridad y recuperación mediante Git.
