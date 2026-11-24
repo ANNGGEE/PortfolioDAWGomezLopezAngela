@@ -3,6 +3,8 @@
 
 He aprendido a instalar, configurar y administrar un servidor web Apache en un entorno Ubuntu Server utilizando una máquina virtual. Durante esta práctica he conocido cómo funciona un servidor web, cómo crear una página personalizada mediante HTML y CSS y cómo configurar un Virtual Host para gestionar su contenido. Además, he aprendido a establecer un sistema de autenticación básica mediante usuario y contraseña para restringir el acceso a una página web. También he utilizado diferentes comandos de terminal, como systemctl, apache2ctl y curl, para comprobar el funcionamiento del servidor, detectar errores y verificar que la configuración se había realizado correctamente. Por último, he podido realizar pruebas desde otro equipo de la red, lo que me ha permitido comprender mejor cómo se accede a un servidor desde diferentes dispositivos y la importancia de proteger los recursos mediante mecanismos de autenticación.
 
+
+
 ![Apache Servidor Web](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlkfctqacl2_D_vlDi4-LCzr0j1TiYRj62hJKPSeB9Gg&s=10)
 
 ## 2. ¿Qué no entiendo?
