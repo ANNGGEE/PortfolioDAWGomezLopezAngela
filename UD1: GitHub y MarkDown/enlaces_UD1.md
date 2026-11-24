@@ -77,7 +77,17 @@ En esta práctica se presentan los principales usos de GitHub y se explican, pas
 
 [Práctica GitHub + MarkDown](https://github.com/ANNGGEE/pruebaGITHUB/blob/main/GitHub.md)
 
-### 4. **Práctica de seguridad y accesibilidad en el control de versiones**
+### 4. **Actividad práctica: Evaluación y uso de un generador de documentación**
+
+En el desarrollo de proyectos de software, la documentación es una parte fundamental, ya que permite comprender el funcionamiento del código, facilitar su mantenimiento y ayudar a otros desarrolladores a trabajar con el proyecto. Para simplificar esta tarea existen diferentes herramientas que permiten generar documentación de forma automática a partir del código fuente y de los comentarios incluidos en él.
+
+En esta actividad vamos a investigar y comparar tres herramientas de generación de documentación: Javadoc, Doxygen y Sphinx, analizando sus principales características, facilidad de uso, integración con proyectos, formatos de salida, comunidad y curva de aprendizaje.
+
+Además, pondremos en práctica estas herramientas utilizando el proyecto desarrollado en el curso anterior, con el objetivo de comprobar cómo funcionan y conocer las posibilidades que ofrecen. Por último, realizaremos una reflexión sobre nuestra experiencia, valorando sus ventajas e inconvenientes y su utilidad a la hora de trabajar en proyectos individuales y colaborativos.
+
+[Generación de documentación.zip](https://github.com/user-attachments/files/35326282/Generacion.de.documentacion.zip)
+
+### 5. **Práctica de seguridad y accesibilidad en el control de versiones**
 En esta práctica se trabajan diferentes medidas para mejorar la seguridad y accesibilidad de un repositorio de GitHub. Para ello, se crea un archivo .gitignore con el objetivo de evitar que se suban archivos sensibles o innecesarios y se elabora un documento security.md donde se recogen recomendaciones de seguridad, protección de ramas, gestión de permisos y recuperación del repositorio. Además, se configura el acceso de un colaborador, se investigan los diferentes niveles de permisos (Read, Write y Admin) y se realizan pruebas de copia de seguridad y recuperación mediante Git.
 
 Con esta actividad aprendemos a aplicar buenas prácticas de seguridad, gestionar la colaboración entre desarrolladores y proteger la información y los archivos de un proyecto.
